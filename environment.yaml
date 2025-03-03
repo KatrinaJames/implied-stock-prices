@@ -1,0 +1,10 @@
+name: implied-stock-prices
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - anaconda::ipykernel
+  - plotly
+
